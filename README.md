@@ -16,7 +16,7 @@
 <a href="mailto:MaloOLIVIER333@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href='https://scholar.google.com/'>
+<a href='https://scholar.google.fr/citations?hl=fr&user=BH9n_XEAAAAJ'>
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <a href="https://www.researchgate.net/profile/Malo-Olivier">
